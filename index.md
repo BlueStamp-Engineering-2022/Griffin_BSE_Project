@@ -1,9 +1,9 @@
 ﻿# Glove Controlled Robotic Hand
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
-| **Griffin** | **Los Altos High School** | **Mechanical/Industrial Engineering** | **11th** |
+| **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Griffin | Los Altos High School | Mechanical/Industrial Engineering | Incoming Junior
 
 ![Headstone Image](https://user-images.githubusercontent.com/107588588/174399114-551ea75e-9c26-4ab4-bb62-bbec43668cd6.jpg)
 )
