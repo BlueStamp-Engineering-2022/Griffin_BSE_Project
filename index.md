@@ -1,11 +1,12 @@
-﻿# Project Name/Title Goes Here
+﻿# Glove Controlled Robotic Hand
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
+| **Griffin** | **Los Altos High School** | **Mechanical/Industrial Engineering** | **11th** |
 |:--:|:--:|:--:|:--:|
 | Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://user-images.githubusercontent.com/107588588/174399114-551ea75e-9c26-4ab4-bb62-bbec43668cd6.jpg)
+)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
