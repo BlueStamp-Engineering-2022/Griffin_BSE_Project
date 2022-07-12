@@ -1,5 +1,5 @@
 ﻿# Glove Controlled Robotic Hand
-My project is a robotic servo motor hand controlled by a glove and flex sensors. It uses multiple servo motors that pulls strings which makes the fingers move. The servo motors are controlled by code from an Arduino that links a glove that uses flex senors to see how much the fingers should bend.
+My project is a robotic servo motor hand controlled by a glove and flex sensors. It uses multiple servo motors that pulls strings which[to make?] makes the fingers move. The servo motors are controlled by code from an Arduino that links a glove that uses flex senors to see how much the fingers should bend.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
