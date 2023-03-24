@@ -1,7 +1,7 @@
 # Glove Controlled Robotic Hand
 My project is a robotic servo motor hand controlled by a glove and flex sensors. It uses multiple servo motors that pull strings to make the fingers move, with a spring that will put it back upright. The servo motors are controlled by C++ code from an Arduino, which links a glove that uses flex senors to see how much the fingers should bend.
 
-![Robotic Hand Movements](https://user-images.githubusercontent.com/107588588/227403301-658129f3-9065-4410-a821-620ef600c60e.png) <img src="https://user-images.githubusercontent.com/107588588/227418496-4bf86c25-9eae-4d1d-a667-fd5e4cd8a26b.png" width = "646" height = "595">
+<img src="https://user-images.githubusercontent.com/107588588/227403301-658129f3-9065-4410-a821-620ef600c60e.png" width = "576" height = "576"> <img src="https://user-images.githubusercontent.com/107588588/227418496-4bf86c25-9eae-4d1d-a667-fd5e4cd8a26b.png" width = "646" height = "595">
 
 [![image](https://user-images.githubusercontent.com/107588588/227418566-11a123a4-45a6-4bb8-9634-372f2617fbea.png "Working Design")](https://user-images.githubusercontent.com/107588588/227403372-a509a86f-b8d2-4a6a-ac76-102ec9736de9.mp4)
 
