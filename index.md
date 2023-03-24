@@ -3,7 +3,7 @@ My project is a robotic servo motor hand controlled by a glove and flex sensors.
 
 ![Robotic Hand Movements](https://user-images.githubusercontent.com/107588588/227403301-658129f3-9065-4410-a821-620ef600c60e.png)
 
-![CircuitDesign](https://user-images.githubusercontent.com/107588588/227418496-4bf86c25-9eae-4d1d-a667-fd5e4cd8a26b.png)
+![CircuitDesign](https://user-images.githubusercontent.com/107588588/227418496-4bf86c25-9eae-4d1d-a667-fd5e4cd8a26b.png height="646" width="595")
 
 [![image](https://user-images.githubusercontent.com/107588588/227418566-11a123a4-45a6-4bb8-9634-372f2617fbea.png "Working Design")](https://user-images.githubusercontent.com/107588588/227403372-a509a86f-b8d2-4a6a-ac76-102ec9736de9.mp4)
 
