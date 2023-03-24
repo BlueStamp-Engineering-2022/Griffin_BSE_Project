@@ -1,7 +1,9 @@
 ﻿# Glove Controlled Robotic Hand
-My project is a robotic servo motor hand controlled by a glove and flex sensors. It uses multiple servo motors that pulls strings which[to make?] makes the fingers move. The servo motors are controlled by code from an Arduino that links a glove that uses flex senors to see how much the fingers should bend.
+My project is a robotic servo motor hand controlled by a glove and flex sensors. It uses multiple servo motors that pull strings to make the fingers move, with a spring that will put it back upright. The servo motors are controlled by C++ code from an Arduino, which links a glove that uses flex senors to see how much the fingers should bend.
 
-make it flow better? grammar style ^
+![Robotic Hand Movements](https://user-images.githubusercontent.com/107588588/227403301-658129f3-9065-4410-a821-620ef600c60e.png)
+
+(https://user-images.githubusercontent.com/107588588/227403372-a509a86f-b8d2-4a6a-ac76-102ec9736de9.mp4)
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
